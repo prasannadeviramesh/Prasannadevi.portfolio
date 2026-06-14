@@ -6,7 +6,7 @@
 
 ## About
 
-Personal portfolio website built with pure HTML & CSS showcasing my projects, skills, and experience as a final-year Computer Science Engineering student at Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College.
+Personal portfolio website built with pure HTML & CSS showcasing my projects, skills, and experience as a Computer Science Engineering graduate from Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College (2026).
 
 ---
 
